@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+    margin:  0;
+    padding: 0::after
+    ::backdrop-color; #f4f4f4;
+}
+header {
+    background-color: black;
+    padding: 10px 20px;
+    text-align: center;
+}
+nav ul {
+    list-style: ;
+    padding:
+}
+        nav ul li{
+            list-style:none ;
+            padding: auto;
+        }
+        nav ul li{
+            display: contents;
+            max-width: ;
+        }
+        nav a{
+            color: #000;
+text-align: left;
+        }
+        main{
+            padding:  20px;
+        }
+        section{
+            margin: 2px; ;
+            padding: 10px;
+            background-color: aqua;
+            border-radius: 0cap;
+            {
